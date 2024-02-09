@@ -1,0 +1,12 @@
+{
+	"SUITS.KEYBOARDSHORTCUT.NAME": "Anzug an-/ausziehen",
+	"SUITS.BUTTON.LOCATION.NAME": "Button-Position",
+	"SUITS.BUTTON.LOCATION.HINT": "Position des Buttons (links oder rechts)",
+	"SUITS.BUTTON.LOCATION.LEFT": "Linke Seite",
+	"SUITS.BUTTON.LOCATION.RIGHT": "Rechte Seite",
+	"SUITS.BUTTON.ICON.NAME": "FA-Icon",
+	"SUITS.BUTTON.ICON.HINT": "Icon-Name von Font Awesome (zum Beispiel 'fa-solid user-astronaut')",
+	"SUITS.JSON.NAME": "JSON-Konfiguration",
+	"SUITS.JSON.HINT": "Die Konfiguration als ein JSON-String (Tools wie https://jsonlint.com/ sind hilfreich beim Editieren)"
+
+}

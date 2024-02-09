@@ -1,0 +1,11 @@
+{
+	"SUITS.KEYBOARDSHORTCUT.NAME": "Equip/unequip suit",
+	"SUITS.BUTTON.LOCATION.NAME": "Button Location",
+	"SUITS.BUTTON.LOCATION.HINT": "Location of the button (left or right)",
+	"SUITS.BUTTON.LOCATION.LEFT": "Left Side",
+	"SUITS.BUTTON.LOCATION.RIGHT": "Right Side",
+	"SUITS.BUTTON.ICON.NAME": "FA Icon",
+	"SUITS.BUTTON.ICON.HINT": "The icon name from Font Awesome (for example 'fa-solid user-astronaut')",
+	"SUITS.JSON.NAME": "JSON Config",
+	"SUITS.JSON.HINT": "The configuration as a JSON string (you can use tools like https://jsonlint.com/ to edit these)"
+}
